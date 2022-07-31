@@ -18,8 +18,10 @@ doesn't consider the sub-categories, I will be not use the sub categories becaus
 I will get the products when I use the category pages.
 Using the category links, the product data will be taken and parsed into a CSV to be stored on AWS S3 
 
+The data stored on S3 is used in another project. 
 
-Other online shops will be included later. 
+# END
+
 
 
 

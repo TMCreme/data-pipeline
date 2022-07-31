@@ -2,3 +2,7 @@ config.ini
 *.json
 *.log
 .DS_Store
+.csv
+__pycache__
+transforms
+raw_data
